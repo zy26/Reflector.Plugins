@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Reflector.Emit</RootNamespace>
     <AssemblyName>Reflector.Emit</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>4096</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>

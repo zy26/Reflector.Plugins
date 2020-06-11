@@ -1,6 +1,6 @@
 # Reflector Plugins
 
-Porting some classic Reflector plugins to **Reflector 10+**, since there are some changes on Reflector's interfaces.
+Porting some classic Reflector plugins to **Reflector 10.2+**, since there are some changes on Reflector's interfaces.
 
 If you are the author of these plugins and do not like what we're doing, send me an email and I will remove your plugins' code.
 
